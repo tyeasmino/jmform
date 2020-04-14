@@ -1,0 +1,87 @@
+.jm {
+	border-style: solid;
+	padding-left: 50px;
+	font-size: 40px;
+}
+
+.since {
+	font-size: 18px;
+	padding-left: 190px;
+	padding-top: 0px;
+	margin-top: 0px;
+} 
+
+.a {
+	padding-left:  218px;	
+	padding-top: 0px;
+	margin-top: 0px;
+	line-height: 0px;
+}
+
+.b {
+	padding-left: 80px;
+	padding-top: 0px;
+	margin-top: 0px;
+	line-height: 0px;
+}
+
+.regi {
+	color: white;
+	padding-left: 280px;
+	padding-top: 0px;
+	background: url(color.PNG);
+	background-repeat: no-repeat;
+} 
+
+.black {
+	padding-left: 40px;
+	line-height: 10px;
+}
+
+.course {
+	color: white;
+	padding-left: 180px;
+	background: url(brown.PNG);
+	background-repeat: no-repeat;
+} 
+
+.real {
+	padding-left: 40px;
+	line-height: 10px;
+}
+
+.office {
+	color: white;
+	padding-left: 350px;
+	background: url(brown.PNG);
+	background-repeat: no-repeat;
+}
+
+.use {
+	padding-left: 40px;
+	line-height: 10px;
+}
+
+.card {	
+	color: #50A39B;
+	text-decoration: underline;
+	padding-left: 40px;
+}
+
+.visa {
+	padding-left: 40px;
+} 
+
+.c {
+	color: white ;
+	background-image: url(brown.PNG);
+	background-repeat: no-repeat;
+	background-size: 850px 2px;
+	padding-bottom: 0px;
+}
+
+.close {
+	color: #50A39B;
+	background-image: url(brown.PNG);
+	background-repeat: no-repeat;
+}
